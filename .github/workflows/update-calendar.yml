@@ -1,0 +1,31 @@
+name: Update MSI Calendar
+
+on:
+  schedule:
+    # Hourly runs catch post-match updates at start+3h and start+6h.
+    - cron: "0 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Update calendar from lolesports.com
+        run: python src/generate_calendar.py --auto
+
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Auto-update MSI 2026 knockout calendar from lolesports.com"
+          file_pattern: "data/matches.json msi_2026.ics docs/msi_2026.ics"
