@@ -11,7 +11,7 @@ Subscribe to get all **14 MSI 2026 knockout matches** in your calendar. Pending 
 **Subscription URL** (copy this):
 
 ```
-https://cdn.jsdelivr.net/gh/pl0327/LOL_MSI26_Calendar@master/msi_2026.ics
+https://cdn.jsdelivr.net/gh/pl0327/LOL_MSI26_Calendar/msi_2026.ics
 ```
 
 ## Features
@@ -108,7 +108,7 @@ GitHub Pages serves the ICS file from the `docs/` folder so it is available at a
 After the first deployment, the calendar is available at:
 
 ```
-https://pl0327.github.io/LOL_MSI26_Calendar/msi_2026.ics
+https://cdn.jsdelivr.net/gh/pl0327/LOL_MSI26_Calendar/msi_2026.ics
 ```
 
 Use the same URL with a `webcal://` prefix if your calendar app expects a subscription link.
