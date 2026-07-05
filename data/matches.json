@@ -1,6 +1,6 @@
 {
   "calendarTitle": "MSI 2026 Knockouts",
-  "lastUpdated": "2026-07-05T06:44:33+00:00",
+  "lastUpdated": "2026-07-05T09:41:28+00:00",
   "source": "https://lolesports.com/en-US/tournament/115570934354631452/stage/115570934355090206",
   "scheduleUrl": "https://lolesports.com/en-US/leagues/first_stand,msi,worlds",
   "liveStreamUrl": "https://www.youtube.com/@lolesports",
@@ -115,7 +115,7 @@
       "team2": "G2",
       "team1Name": "Hanwha Life Esports",
       "team2Name": "G2 Esports",
-      "state": "inProgress",
+      "state": "completed",
       "startLocal": "2026-07-05T17:00:00",
       "endLocal": "2026-07-05T20:00:00",
       "timezone": "Asia/Seoul",
@@ -168,9 +168,9 @@
       "phase": "LOWER 2",
       "roundLabel": "Lower Bracket - Round 2",
       "description": "LR2-1",
-      "team1": "TBD",
+      "team1": "G2",
       "team2": "TBD",
-      "team1Name": "TBD",
+      "team1Name": "G2 Esports",
       "team2Name": "TBD",
       "state": "unstarted",
       "startLocal": "2026-07-08T12:00:00",
@@ -178,8 +178,8 @@
       "timezone": "Asia/Seoul",
       "matchUrl": "https://www.youtube.com/@lolesports",
       "status": "CONFIRMED",
-      "summary": "LOWER 2 - TBD vs TBD",
-      "descriptionText": "League of Legends MSI 2026 Knockouts\nLower Bracket - Round 2\nTBD vs TBD\n\nSchedule: https://lolesports.com/en-US/leagues/first_stand,msi,worlds\n\nBracket: https://lolesports.com/en-US/tournament/115570934354631452/stage/115570934355090206"
+      "summary": "LOWER 2 - G2 vs TBD",
+      "descriptionText": "League of Legends MSI 2026 Knockouts\nLower Bracket - Round 2\nG2 Esports vs TBD\n\nSchedule: https://lolesports.com/en-US/leagues/first_stand,msi,worlds\n\nBracket: https://lolesports.com/en-US/tournament/115570934354631452/stage/115570934355090206"
     },
     {
       "matchId": "115570934355614587",
@@ -207,17 +207,17 @@
       "roundLabel": "Upper Bracket - Round 3",
       "description": "UR3",
       "team1": "TBD",
-      "team2": "TBD",
+      "team2": "HLE",
       "team1Name": "TBD",
-      "team2Name": "TBD",
+      "team2Name": "Hanwha Life Esports",
       "state": "unstarted",
       "startLocal": "2026-07-09T17:00:00",
       "endLocal": "2026-07-09T20:00:00",
       "timezone": "Asia/Seoul",
       "matchUrl": "https://www.youtube.com/@lolesports",
       "status": "CONFIRMED",
-      "summary": "UPPER 3 - TBD vs TBD",
-      "descriptionText": "League of Legends MSI 2026 Knockouts\nUpper Bracket - Round 3\nTBD vs TBD\n\nSchedule: https://lolesports.com/en-US/leagues/first_stand,msi,worlds\n\nBracket: https://lolesports.com/en-US/tournament/115570934354631452/stage/115570934355090206"
+      "summary": "UPPER 3 - TBD vs HLE",
+      "descriptionText": "League of Legends MSI 2026 Knockouts\nUpper Bracket - Round 3\nTBD vs Hanwha Life Esports\n\nSchedule: https://lolesports.com/en-US/leagues/first_stand,msi,worlds\n\nBracket: https://lolesports.com/en-US/tournament/115570934354631452/stage/115570934355090206"
     },
     {
       "matchId": "115570934355614593",
