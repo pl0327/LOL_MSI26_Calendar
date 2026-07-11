@@ -1,6 +1,6 @@
 {
   "calendarTitle": "MSI 2026 Knockouts",
-  "lastUpdated": "2026-07-10T11:50:35+00:00",
+  "lastUpdated": "2026-07-11T11:03:47+00:00",
   "source": "https://lolesports.com/en-US/tournament/115570934354631452/stage/115570934355090206",
   "scheduleUrl": "https://lolesports.com/en-US/leagues/first_stand,msi,worlds",
   "liveStreamUrl": "https://www.youtube.com/@lolesports",
@@ -248,7 +248,7 @@
       "team2": "LYON",
       "team1Name": "Hanwha Life Esports",
       "team2Name": "LYON",
-      "state": "unstarted",
+      "state": "inProgress",
       "startLocal": "2026-07-11T17:00:00",
       "endLocal": "2026-07-11T20:00:00",
       "timezone": "Asia/Seoul",
