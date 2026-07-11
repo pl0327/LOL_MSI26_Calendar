@@ -1,6 +1,6 @@
 {
   "calendarTitle": "MSI 2026 Knockouts",
-  "lastUpdated": "2026-07-11T11:03:47+00:00",
+  "lastUpdated": "2026-07-11T14:51:38+00:00",
   "source": "https://lolesports.com/en-US/tournament/115570934354631452/stage/115570934355090206",
   "scheduleUrl": "https://lolesports.com/en-US/leagues/first_stand,msi,worlds",
   "liveStreamUrl": "https://www.youtube.com/@lolesports",
@@ -248,7 +248,7 @@
       "team2": "LYON",
       "team1Name": "Hanwha Life Esports",
       "team2Name": "LYON",
-      "state": "inProgress",
+      "state": "completed",
       "startLocal": "2026-07-11T17:00:00",
       "endLocal": "2026-07-11T20:00:00",
       "timezone": "Asia/Seoul",
@@ -264,17 +264,17 @@
       "roundLabel": "Finals",
       "description": "Finals",
       "team1": "BLG",
-      "team2": "TBD",
+      "team2": "HLE",
       "team1Name": "BILIBILI GAMING",
-      "team2Name": "TBD",
+      "team2Name": "Hanwha Life Esports",
       "state": "unstarted",
       "startLocal": "2026-07-12T15:00:00",
       "endLocal": "2026-07-12T18:00:00",
       "timezone": "Asia/Seoul",
       "matchUrl": "https://www.youtube.com/@lolesports",
       "status": "CONFIRMED",
-      "summary": "FINALS - BLG vs TBD",
-      "descriptionText": "League of Legends MSI 2026 Knockouts\nFinals\nBILIBILI GAMING vs TBD\n\nSchedule: https://lolesports.com/en-US/leagues/first_stand,msi,worlds\n\nBracket: https://lolesports.com/en-US/tournament/115570934354631452/stage/115570934355090206"
+      "summary": "FINALS - BLG vs HLE",
+      "descriptionText": "League of Legends MSI 2026 Knockouts\nFinals\nBILIBILI GAMING vs Hanwha Life Esports\n\nSchedule: https://lolesports.com/en-US/leagues/first_stand,msi,worlds\n\nBracket: https://lolesports.com/en-US/tournament/115570934354631452/stage/115570934355090206"
     }
   ]
 }
